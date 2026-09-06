@@ -1,4 +1,4 @@
-# RepoInsight 🚀
+# RepoInsight 
 
 **RepoInsight** is an AI-powered codebase onboarding and Q&A platform designed to help developers instantly understand a new codebase. Instead of spending days browsing through files, mapping out APIs, and tracing database models, RepoInsight extracts the entire structure automatically and answers technical questions in seconds.
 
